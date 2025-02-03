@@ -13,3 +13,6 @@ biblio:
 
 1 - https://t.me/Mosh4Learning
 2 - https://reactnavigation.org/docs/hello-react-navigation
+3 - React Native for Mobile Development Harness the Power of React Native to Create Stunning iOS and Android Applications(Second Edition)
+    Akshat Paul
+    Abhishek Nalwaya

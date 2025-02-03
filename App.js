@@ -1,11 +1,12 @@
-//import React from "react";
-import { StyleSheet } from "react-native";
+import React from "react";
 
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
-import HomeScreen from "./components/HomeScreen";
-import AboutScreen from "./components/AboutScreen";
+import HomeScreen from "./components/HomeScreen-function";
+import AboutScreen from "./components/AboutScreen-function";
+//import HomeScreen from "./components/HomeScreen-class";
+//import AboutScreen from "./components/AboutScreen-class";
 
 const Stack = createNativeStackNavigator();
 
@@ -19,12 +20,3 @@ export default function App() {
     </NavigationContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
-  },
-});
