@@ -24,7 +24,7 @@ React version 18.3.1
 React Native version 0.76.6
 expo version 52.0.27
 
-biblio:
+--- bibliography ---
 
 1 - https://t.me/Mosh4Learning
 2 - https://reactnavigation.org/docs/hello-react-navigation
